@@ -3,6 +3,7 @@ public class ATM {
     public static void main(String[] args)
     {
         System.out.println("Enter the Account Number: ");
+        System.out.println("choose between 1804, 2711, 1905");
         Scanner s=new Scanner(System.in);
         int an=s.nextInt();
         if(an==1804) {
