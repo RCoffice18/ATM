@@ -1,6 +1,6 @@
 package Origin;
 import java.util.Scanner;
-public class ATM {
+public class Origin {
     public static void main(String[] args){
         System.out.println("Enter the Account Number: ");
         Scanner s=new Scanner(System.in);
